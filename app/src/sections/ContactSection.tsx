@@ -159,7 +159,7 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                   </div>
                   <div>
                     <span className="micro-label text-white/50 block">Office</span>
-                    <span className="text-white font-body">Kyshma, Parbat, Nepal</span>
+                    <span className="text-white font-body">Kushma, Parbat, Nepal</span>
                   </div>
                 </div>
               </div>
