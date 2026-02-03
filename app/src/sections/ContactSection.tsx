@@ -139,7 +139,7 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                   </div>
                   <div>
                     <span className="micro-label text-white/50 block">Email</span>
-                    <span className="text-white font-body">hello@trailtrust.com</span>
+                    <span className="text-white font-body">rajyesnt@gmail.com</span>
                   </div>
                 </div>
 
@@ -149,7 +149,7 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                   </div>
                   <div>
                     <span className="micro-label text-white/50 block">Phone</span>
-                    <span className="text-white font-body">+977 1 4XXX XXX</span>
+                    <span className="text-white font-body">+977 9821396699</span>
                   </div>
                 </div>
 
@@ -159,7 +159,7 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                   </div>
                   <div>
                     <span className="micro-label text-white/50 block">Office</span>
-                    <span className="text-white font-body">Thamel, Kathmandu, Nepal</span>
+                    <span className="text-white font-body">Kyshma, Parbat, Nepal</span>
                   </div>
                 </div>
               </div>
@@ -207,7 +207,7 @@ const ContactSection = ({ className = '' }: ContactSectionProps) => {
                         value={formData.email}
                         onChange={handleChange}
                         required
-                        placeholder="your@email.com"
+                        placeholder=" "
                         className="w-full"
                       />
                     </div>
